@@ -1,2 +1,2 @@
 # YouTubeVideoDownloader  
-This is an android video downloader
+This is a youtube video downloader
